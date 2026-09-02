@@ -1,4 +1,4 @@
-// A function declare
+// A function declaration
 static string NiceFormat(int unpadded)
 {
     // convert unpaded an int to a string
