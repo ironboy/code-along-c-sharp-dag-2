@@ -45,5 +45,5 @@ else if (age < 20)
 }
 else
 {
-    Console.WriteLine("Du får handla på Systembolaget, för du är minst 20 år gammal.");
+    Console.WriteLine("Du får handla på Systembolaget, för du är minst 20 år gammal. Du får även rösta!");
 }
