@@ -1,0 +1,4 @@
+# Ignore build files and temporary files
+# that dotnet will recreate by itself
+bin/
+obj/
